@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projectes\\Platformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\projectes\\platformer\\assets\\scripts\\locationscripts\\missiles\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationscripts\\missiles\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\projectes\\platformer\\assets\\scripts\\locationscripts\\missiles\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationscripts\\missiles\\enemybullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\projectes\\platformer\\assets\\scripts\\locationscripts\\activeobjs\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationscripts\\activeobjs\\portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|c:\\projectes\\platformer\\assets\\scripts\\locationscripts\\activeobjs\\lever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\locationscripts\\activeobjs\\lever.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|C:\\Projectes\\Platformer\\assets\\scripts\\bossscripts\\endgamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossscripts\\endgamescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|C:\\Projectes\\Platformer\\assets\\scripts\\ui\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100AE41E-9853-00A1-0814-C759729749EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\endlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projectes\\Platformer\\Assets\\Scripts\\Secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\Missiles\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationScripts\\Missiles\\Bullet.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\Missiles\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationScripts\\Missiles\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:13:41.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyBullet.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\Missiles\\EnemyBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationScripts\\Missiles\\EnemyBullet.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\Missiles\\EnemyBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationScripts\\Missiles\\EnemyBullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:13:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Portal.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\ActiveObjs\\Portal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationScripts\\ActiveObjs\\Portal.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\ActiveObjs\\Portal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationScripts\\ActiveObjs\\Portal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:07:21.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lever.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\ActiveObjs\\Lever.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LocationScripts\\ActiveObjs\\Lever.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\LocationScripts\\ActiveObjs\\Lever.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LocationScripts\\ActiveObjs\\Lever.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T00:00:29.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndGameScript.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\BossScripts\\EndGameScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossScripts\\EndGameScript.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\BossScripts\\EndGameScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossScripts\\EndGameScript.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:36:24.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\Secret.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Secret.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\Secret.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Secret.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:49:44.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EndLevel.cs",
+              "DocumentMoniker": "C:\\Projectes\\Platformer\\Assets\\Scripts\\UI\\EndLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\EndLevel.cs",
+              "ToolTip": "C:\\Projectes\\Platformer\\Assets\\Scripts\\UI\\EndLevel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\EndLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:21:03.624Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
